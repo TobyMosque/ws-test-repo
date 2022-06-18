@@ -1,0 +1,7 @@
+[submodule "ext-1"]
+path = workspaces/ext-1
+url = https://github.com/TobyMosque/q-ext-test1
+
+[submodule "ext-2"]
+path = workspaces/ext-2
+url = https://github.com/TobyMosque/q-ext-test2

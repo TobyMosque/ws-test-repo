@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "workspaces": ["workspaces/**/*"],
+  "scripts": {
+    "ext:test-1:dev": "yarn workspace @tobymosque/quasar-ui-ext-test1 dev",
+    "ext:test-1:build": "yarn workspace @tobymosque/quasar-ui-ext-test1 build",
+    "ext:test-2:dev": "yarn workspace @tobymosque/quasar-ui-ext-test2 dev",
+    "ext:test-2:build": "yarn workspace @tobymosque/quasar-ui-ext-test2 build"
+  }
+}
