@@ -5,3 +5,11 @@ url = https://github.com/TobyMosque/q-ext-test1
 [submodule "ext-2"]
 path = workspaces/ext-2
 url = https://github.com/TobyMosque/q-ext-test2
+
+[submodule "app-1"]
+path = workspaces/app-1
+url = https://github.com/TobyMosque/q-app-test1
+
+[submodule "app-2"]
+path = workspaces/app-2
+url = https://github.com/TobyMosque/q-app-test2
